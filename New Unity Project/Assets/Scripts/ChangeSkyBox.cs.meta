@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0b4a115e9d352c646833508f653de53d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redSky: {fileID: 2100000, guid: 2441c79940171dc43b33badf9fe97828, type: 2}
+  - blueSky: {fileID: 2100000, guid: bbe9494f815f3c340956427c884b72a0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
